@@ -6,11 +6,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-    <artifactId>jenkins-maven-demo</artifactId>
+    <artifactId>hello-demo</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>Jenkins Maven Demo</name>
+    <name>Hello Demo</name>
     <description>Simple Maven project for Jenkins CI/CD</description>
 
     <!-- ✅ Java Version -->
